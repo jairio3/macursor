@@ -1,6 +1,6 @@
 ;SETTINGS
 #InstallKeybdHook
-#SingleInstance Ignore
+#SingleInstance Force
 SetTitleMatchMode 2
 SendMode Input
 
